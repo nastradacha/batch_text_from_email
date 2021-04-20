@@ -7,7 +7,7 @@ from email.mime.multipart import MIMEMultipart
 import pandas as pd
 
 email = "*****@gmail.com"
-pas = "*************"
+pas = "**************"
 
 
 def phone_number_from_csv(path_to_csv):
